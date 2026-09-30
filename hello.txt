@@ -1,3 +1,0 @@
-第一行：Hello Git
-第二行：學會 diff
-第三行：reset 之後重新提交
